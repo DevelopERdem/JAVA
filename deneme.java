@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Savaş Yılmaz");
+        System.out.println("Deneme");
     }
 }
